@@ -13,13 +13,6 @@
 ## Project Title
 **Data Science Pipeline for Flight Delays Around the World**
 
-## Project Overview
-This project presents the design and implementation of a complete data science pipeline focused on flight delays around the world. Beginning with raw data collection and continuing through preprocessing, analysis, modeling, and interpretation, the project is structured to demonstrate each stage of the data science workflow with clarity and purpose.
-
-Our team will work with data from at least five countries, building the project around airports, flights, and airport punctuality indicators. The final outcome will include a simple machine learning model capable of predicting a delay-related target, such as delay duration, delayed versus not delayed status, or a punctuality category.
-
-Beyond presenting statistics and visualizations, the goal of this project is to generate meaningful insights. We aim to explain what the results indicate, why they are important in a real-world aviation context, and what limitations may still exist in the data, methodology, and predictive model.
-
 ## What We Expect From This Project
 Starting from Phase One, we expect this project to strengthen our practical understanding of the full data science process. We aim to move beyond theoretical knowledge by applying data collection methods, cleaning techniques, exploratory analysis, feature selection, and predictive modeling in a real-world case study.
 
