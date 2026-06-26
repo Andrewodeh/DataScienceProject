@@ -6,7 +6,7 @@
 ## Team Members
 - **Andrew Odeh** — Student Number: **1222212**
 - **Omar Omar** — Student Number: **1220027**
-- **Rula Afaneh** — Student Number: **1200370**
+
 
 
 ## Instructor
